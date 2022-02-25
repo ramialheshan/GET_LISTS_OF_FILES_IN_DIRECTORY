@@ -1,0 +1,8 @@
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\bin\Debug\GET_LISTS_OF_FILES_IN_DIRECTORY.exe
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\bin\Debug\GET_LISTS_OF_FILES_IN_DIRECTORY.pdb
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\ResolveAssemblyReference.cache
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\GET_LISTS_OF_FILES_IN_DIRECTORY.csproj.GenerateResource.Cache
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\GET_LISTS_OF_FILES_IN_DIRECTORY.exe
+D:\Рабочие файлы\Проекты\Пробные проекты\GET_LISTS_OF_FILES_IN_DIRECTORY\GET_LISTS_OF_FILES_IN_DIRECTORY\obj\Debug\GET_LISTS_OF_FILES_IN_DIRECTORY.pdb
